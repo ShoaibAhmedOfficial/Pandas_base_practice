@@ -1,4 +1,4 @@
-# Pandas_base_practice
+# Pandas_basics_practice
 This project showcases my data analysis skills using Python and Pandas.
 
 head()	Returns the header row and the first 5 rows, or the specified number of rows
